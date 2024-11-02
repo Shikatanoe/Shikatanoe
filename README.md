@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shikatanoe
+- 👋 Hi, I’m Ralph Joseph
+- 🧑‍🎓I'm a 3rd year BSINFOTECH college student
 - 👀 I’m interested in Games/Foods/Sci-fi/Arts etc..
-- 🌱 I’m currently learning 3D modeling & Programming & Arts
-- 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me 
+- 🌱 I’m currently learning blender At Udemy
 - 😄 Pronouns: He🗿
 - ⚡ Fun fact: Cats are the only mammal that can't taste sweetness. 
 
